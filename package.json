@@ -13,9 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "method": "^2.0.0"
   },
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   }
 }
